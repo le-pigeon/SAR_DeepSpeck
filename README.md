@@ -1,5 +1,5 @@
 Recommended to run in Google Colab with GPU runtime enabled. 
-Untested on local runtime (have you seen the prices for Nvidia GPU?? I can't afford one) 
+Untested on local runtime (have you seen the prices for Nvidia GPU in the market??) 
 
 For training dataset, please download from: https://data.mendeley.com/datasets/2xf5v5pwkr/2
 
